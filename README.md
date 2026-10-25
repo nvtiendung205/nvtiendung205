@@ -37,11 +37,11 @@
 ### 💡 Technical Knowledges
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-- **Data analysis:** Proficient in data processing and analysis techniques such as statistics, quantitative, qualitative and story-telling for statistical analysis and diagnostic analysis through **SQL** and **Power BI** to draw insights.
-- **Data Processing:** Experienced in using **Python** for data cleaning, **ETL/ELT**, and transforming **OLTP** into **OLAP**, while applying advanced **SQL** techniques (join, pivot, window function, subquery, CTE) to optimize data analysis.
-- **Data Visualization & Reporting:** Design reports and dashboard data visualizations on **Power BI**, basic DAX and build metrics to analyze data; choose appropriate visualizations to convey insights and support data storytelling.
-- **Database Management:** Understanding of data structures and relational database administration (**MySQL, SQL Server**), ensuring data consistency and security.
-- **Business analyst:** Support business requirement gathering and documentation; write SRS, User Stories, Use Cases, and process flows to clarify business logic and align technical solutions with business goals.
+- 📊 **Data analysis:** Proficient in data processing and analysis techniques such as statistics, quantitative, qualitative and story-telling for statistical analysis and diagnostic analysis through **SQL** and **Power BI** to draw insights.
+- ⚙️ **Data Processing:** Experienced in using **Python** for data cleaning, **ETL/ELT**, and transforming **OLTP** into **OLAP**, while applying advanced **SQL** techniques (`join`, `pivot`, `window function`, `subquery`, `CTE`) to optimize data analysis.
+- 📈 **Data Visualization & Reporting:** Design reports and dashboard data visualizations on **Power BI**, basic **DAX** and build metrics to analyze data; choose appropriate visualizations to convey insights and support data storytelling.
+- 🗄️ **Database Management:** Understanding of data structures and relational database administration (**MySQL**, **SQL Server**), ensuring data consistency and security.
+- 📋 **Business Analyst:** Support business requirement gathering and documentation; write **SRS**, **User Stories**, **Use Cases**, and process flows to clarify business logic and align technical solutions with business goals.
 
 ---
 
@@ -110,5 +110,5 @@
   - *Description:* Conducted financial EDA and correlation analysis to identify retail margin bottlenecks, building a 6-group store classification model to drive restructuring recommendations for 29 loss-making stores.
 
 - ⚙️ **[Customer 360 Data Engineering Pipeline (Interaction & Behavioral Log ETL)](https://github.com/nvtiendung205/Customer360-Interaction_Behavioral-DE)**
-  - *Tech Stack:* **Python, PySpark, JSON & Parquet, Local LLM (`google/gemma-3n-e4b` via LM Studio), MySQL Data Warehouse, Power BI**
-  - *Description:* Built end-to-end **ETL pipelines** (`etl_logcontent` & `etl_logsearch`) to extract, clean, and transform multi-day raw **JSON** interaction logs and **Parquet** search logs from **OLTP** into **MySQL OLAP Data Warehouse**. Integrated a local AI model (`google/gemma-3n-e4b`) to automatically classify user search keywords into content categories and track cross-month behavioral shifts (`Changed` vs. `Unchanged`) for **Power BI** interactive reporting.
+  - *Tech Stack:* **Python, PySpark, JSON & Parquet, Local LLM (`google/gemma-3n-e4b` via LM Studio), MySQL, Power BI**
+  - *Description:* Built end-to-end **ETL pipelines** (`etl_logcontent` & `etl_logsearch`) to extract, clean, and transform multi-day raw **JSON** interaction logs and **Parquet** search logs from **OLTP** into **MySQL OLAP**. Integrated a local AI model (`google/gemma-3n-e4b`) to automatically classify user search keywords into content categories and track cross-month behavioral shifts (`Changed` vs. `Unchanged`) for **Power BI** interactive reporting.
