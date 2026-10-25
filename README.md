@@ -1,6 +1,6 @@
 <!-- Hiệu ứng chữ tự động gõ (Readme Typing SVG) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&multiline=true&width=600&height=85&lines=Hi+there+%F0%9F%91%8B+%2C;I'm+Nguyen+Vu+Tien+Dung" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1800&pause=400&color=58A6FF&multiline=true&width=600&height=125&lines=Hi+there+%F0%9F%91%8B+%2C;I'm+Nguyen+Vu+Tien+Dung;Nice+to+meet+you!+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 ### 🌐 Let's Connect
