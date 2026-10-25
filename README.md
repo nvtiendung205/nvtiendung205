@@ -37,7 +37,7 @@
 ### 💡 Technical Knowledges
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-- 📊 **Data analysis:** Proficient in data processing and analysis techniques such as statistics, quantitative, qualitative and story-telling for statistical analysis and diagnostic analysis through **SQL** and **Power BI** to draw insights.
+- 📊 **Data Analysis:** Proficient in data processing and analysis techniques such as statistics, quantitative, qualitative and story-telling for statistical analysis and diagnostic analysis through **SQL** and **Power BI** to draw insights.
 - ⚙️ **Data Processing:** Experienced in using **Python** for data cleaning, **ETL/ELT**, and transforming **OLTP** into **OLAP**, while applying advanced **SQL** techniques (`join`, `pivot`, `window function`, `subquery`, `CTE`) to optimize data analysis.
 - 📈 **Data Visualization & Reporting:** Design reports and dashboard data visualizations on **Power BI**, basic **DAX** and build metrics to analyze data; choose appropriate visualizations to convey insights and support data storytelling.
 - 🗄️ **Database Management:** Understanding of data structures and relational database administration (**MySQL**, **SQL Server**), ensuring data consistency and security.
