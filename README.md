@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1800&pause=400&color=58A6FF&multiline=true&width=600&height=125&lines=Hi+there+%F0%9F%91%8B+%2C;I'm+Nguyen+Vu+Tien+Dung;Nice+to+meet+you!+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
-### 🌐 Let's Connect
+### 🌐 Let's Connect!!!
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <p align="left">
